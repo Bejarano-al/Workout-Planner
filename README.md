@@ -7,12 +7,12 @@ A Python code created to help with workout sessions that helps you create a pers
 -Program auto-fills the rest using prioritized exercises  
 -Final workout is printed with details  
 
-# Created as a learning project to practice:
+# Created as a learning project to practice
 -Python lists & dictionaries  
 -Loops & conditionals  
 -Functions  
 
-# Future Improvements:
+# Future Improvements
 -GUI  
 -More exercices and their demostration  
 -Progrevise overload  
