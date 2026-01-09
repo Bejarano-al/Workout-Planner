@@ -1,0 +1,23 @@
+Name,Equipment,Weight,Reps,Sets,Rest,Muscle group,Muscle group1
+Skull crushers,Dumbbells,5,10,5,60,Tricep muscle,
+Dips,Bars,Body Weight,10,5,60,Tricep muscle,Chest muscle
+Dumbbell kickbacks,Dumbbells,5,10,5,60,Tricep muscle,
+Diamond pushups,No equipment,Body Weight,5,5,60,Tricep muscle,Chest muscle
+Bench press,Dumbbells,16.5,10,5,60,Tricep muscle,Chest muscle
+Bicep curls,Dumbbells,11.5,10,5,60,Bicep muscle,
+Hammer curls,Dumbbells,11.2,10,5,60,Bicep muscle,
+Chinups,Bars,Body Weight,5,5,30,Bicep muscle,Back muscle
+Neutral grip pullups,Bars,Body Weight,5,5,30,Back muscle,
+Pullups,Bars,Body Weight,5,5,30,Back muscle,
+Kettlebell swings,Kettlebell,10,20,5,60,Abdominal muscle,Leg muscle
+Lateral raises,Dumbbells,1.25,15,5,60,Back muscle,
+Squats,Kettlebell,10,15,5,60,Leg muscle,
+Pushups,No equipment,Body Weight,20,5,60,Chest muscle,
+Leg raises in bars,Bars,Body Weight,10,5,60,Abdominal muscle,
+Med ball slam,Medical Ball,10,20,5,30,Abdominal muscle,
+Jumping jacks,No equipment,Body Weight,30,5,30,Abdominal muscle,Leg muscle
+floor workout,No equipment,Body Weight,1,1,0,Abdominal muscle,
+Running warmup,No equipment,Body Weight,1,1,0,Leg muscle,
+Running,No equipment,Body Weight,1,1,0,Leg muscle,
+kettlebell_rolls,Kettlebell,10,10,5,30,,
+warm_pullups_pushups,Bars,Body Weight,10,5,30,,
