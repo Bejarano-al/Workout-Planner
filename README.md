@@ -11,6 +11,7 @@ A Python code created to help with workout sessions that helps you create a pers
 -Python lists & dictionaries  
 -Loops & conditionals  
 -Functions  
+-Pandas library  
 
 # Future Improvements
 -GUI  
